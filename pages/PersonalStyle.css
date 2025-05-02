@@ -65,17 +65,17 @@ Classes
 }
 .con-left {
 	position: relative;
-	width: 35%;
+	width: 40%;
 	left: 4%;
 }
 .con-mid {
 	position: relative;
-	width: 35%;
+	width: 40%;
 	align-self: flex-end;
 }
 .con-right {
 	position: relative;
-	width: 35%;
+	width: 40%;
 	right: 4%;
 }
 .text-box{
