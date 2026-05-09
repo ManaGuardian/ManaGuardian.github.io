@@ -1,3 +1,9 @@
+/* Defining Fonts */
+@font-face{
+	font-family: "Pfeffer Gothic";
+	src: url(../fonts/Pfeffersimpelgotisch.otf);
+}
+
 /*General Tag Rules*/
 body {
 	background-color: #000000;
@@ -108,7 +114,7 @@ Specialized Classes
 }
 .banner { /*Specific class for the top banner image*/
 	position: relative;
-	background-image: url(Images/Banner_Image.jpg);
+	background-image: url(../images/Banner_Image.jpg);
 	background-repeat: repeat;
 	max-height: 20%;
 	width: 100%;

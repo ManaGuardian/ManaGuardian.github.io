@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>My Example magic page or something</title>
+  <link>https://managuardian.github.io/pages/Apartment.html</link>
+  <description>My about me, and where the sticker collection is until further notice</description>
+  <item>
+    <title>Who the Fuck?</title>
+    <link>https://managuardian.github.io/pages/Apartment.html</link>
+    <description>Experimenting with RSS, I will probably have an updates page or something</description>
+  </item>
+  <item>
+    <title>some other item I don't know</title>
+    <link>https://managuardian.github.io/pages/index.html</link>
+    <description>returns to the index I don't know</description>
+  </item>
+</channel>
+
+</rss>
