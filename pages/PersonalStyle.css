@@ -1,3 +1,9 @@
+/* Defining Fonts */
+@font-face{
+	font-family: "Pfeffer Gothic";
+	src: url(fonts/Pfeffersimpelgotisch.otf);
+}
+
 /*General Tag Rules*/
 body {
 	background-color: #000000;
