@@ -6,9 +6,11 @@
    <link>https://managuardian.github.io/rss/feed_mana.xml</link>
    <description>ManaGuardian Website Changelog</description>
    <item>
-      <title>Who the Fuck?</title>
-      <link>https://managuardian.github.io/pages/Apartment.html</link>
-      <description>Experimenting with RSS, I will probably have an updates page or something</description>
+      <title>Establishing RSS Feed</title>
+      <link>https://managuardian.github.io/index.html</link>
+      <description>Experimenting with RSS, I will probably have this display as a proper page in the future
+      However, for the time being it's just a changelog for those that choose to find it.
+      </description>
    </item>
 </channel>
 
