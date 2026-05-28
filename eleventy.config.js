@@ -7,6 +7,8 @@ module.exports = async function(eleventyConfig) {
 	
 	eleventyConfig.addPassthroughCopy({ "css/General_Style.css": "css/General_Style.css" });
 	
+	eleventyConfig.addPassthroughCopy({ "rss": "rss" });
+	
 	eleventyConfig.addPassthroughCopy({ "images": "images" });
 	eleventyConfig.addPassthroughCopy({ "audio": "audio" });
 	eleventyConfig.addPassthroughCopy({ "fonts": "fonts" });
